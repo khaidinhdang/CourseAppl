@@ -1,0 +1,1 @@
+package com.example.courseapp.modeldata class Lesson(    val lessonTitle: String = "",    val lessonContent: String = "",    val lessonDuration: String ="",)

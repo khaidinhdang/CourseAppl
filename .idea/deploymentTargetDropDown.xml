@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <value>
+      <entry key="CourseDetailScreens">
+        <State />
+      </entry>
+      <entry key="PreviewCourseDetailScreen">
+        <State />
+      </entry>
+      <entry key="ProductView">
+        <State />
+      </entry>
+      <entry key="SettingsScreen">
+        <State />
+      </entry>
+      <entry key="TestPreview">
+        <State />
+      </entry>
+      <entry key="app">
+        <State>
+          <targetSelectedWithDropDown>
+            <Target>
+              <type value="QUICK_BOOT_TARGET" />
+              <deviceKey>
+                <Key>
+                  <type value="VIRTUAL_DEVICE_PATH" />
+                  <value value="C:\Users\ADMIN\.android\avd\Pixel_8_API_30.avd" />
+                </Key>
+              </deviceKey>
+            </Target>
+          </targetSelectedWithDropDown>
+          <timeTargetWasSelectedWithDropDown value="2024-05-13T12:52:50.175485700Z" />
+        </State>
+      </entry>
+    </value>
+  </component>
+</project>

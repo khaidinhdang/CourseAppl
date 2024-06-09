@@ -1,0 +1,1 @@
+package com.example.courseapp.modeldata class Rating(    val score: Int = 0,    val count: Int = 0,    val progress: Float ,    val courseId: String = "")

@@ -1,0 +1,1 @@
+package com.example.courseapp.modeldata class Comment(    val text: String = "",    val rating: Int = 0,    val courseId: String = "",    val userId: String = "",    var id:String ="",    val timestamp: Long = System.currentTimeMillis(),    val user: User? = null)
